@@ -25,6 +25,12 @@ I developed the backend for a social app similar to Twitter, using Node.js, Mong
 - **Repository Link:** [Social Media App Backend](<https://github.com/robertoo28/BackendRedSocial>)
 
 
+## Let's Connect!
+Interested in collaborating on innovative projects or just want to discuss tech? Reach out to me!
+
+- 📧 Email: [robertoalvaradob@gmail.com]
+
+
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
