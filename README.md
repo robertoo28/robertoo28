@@ -22,7 +22,7 @@ I developed the backend for a social app similar to Twitter, using Node.js, Mong
 - **Real-Time Interactions:** Leveraging Node.js for its asynchronous, event-driven architecture, enabling real-time updates and interactions.
 - **Database Management:** Utilizing MongoDB for flexible, scalable database solutions, perfectly suited for handling large volumes of unstructured data.
 - **API Development:** Crafting robust APIs with ExpressJS to handle various requests efficiently and securely.
-- **Repository Link:** [Social Media App Backend](<https://github.com/robertoo28/BackendRedSocialL>)
+- **Repository Link:** [Social Media App Backend](<https://github.com/robertoo28/BackendRedSocial>)
 
 
   
