@@ -15,7 +15,7 @@ Together with my best friend, I embarked on an exciting project to build a compr
   - User-friendly interface designed with React-Vite, providing a seamless and engaging user experience.
   - Robust backend developed in Java with Spring Boot, ensuring efficient data handling and API integration.
 - **Role:** My main contributions were in backend development, focusing on API integration and data management with Java and Spring Boot. I also collaborated on the frontend development, working with React-Vite to bring our vision to life.
-- **GitHub Repository:** [Pokedex App Repository](#)(<https://github.com/mauri276/ReactSpring-Pokemon-App>)
+- **GitHub Repository:** [Pokedex App Repository](<https://github.com/mauri276/ReactSpring-Pokemon-App>)
 ### Social Media App: Backend Development with Node.js, MongoDB, and ExpressJS
 I developed the backend for a social app similar to Twitter, using Node.js, MongoDB, and ExpressJS. This project was an exciting journey into creating scalable, efficient back-end systems for social media applications. The key features of this backend include:
 
